@@ -1,16 +1,13 @@
 {
   "name": "@umi-block/test",
   "version": "0.0.1",
-  "description": "This is my first block test",
+  "description": "",
   "main": "src/index.js",
   "authors": {
-    "name": "linyan",
-    "email": "liya20150602@163.com"
+    "name": "",
+    "email": ""
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/liya20150602/proBlocksTest/tree/master/LinyanBlock"
-  },
+  "repository": "test/test",
   "scripts": {
     "dev": "umi dev"
   },

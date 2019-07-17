@@ -1,11 +1,11 @@
-# @umi-material/LinyanTestBlock
+# @umi-material/test
 
-This is my first block test
+
 
 ## Usage
 
 ```sh
-umi block https://github.com/umijs/umi-blocks/tree/master/LinyanTestBlock
+umi block https://github.com/test/tree/master/test
 ```
 
 ## LICENSE
