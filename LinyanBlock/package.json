@@ -21,5 +21,8 @@
     "umi-types": "^0.2.0"
     
     },
+    "blockConfig": {
+      "specVersion": "0.1"
+    },
   "license": "MIT"
 }
